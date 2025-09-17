@@ -1,0 +1,487 @@
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A not very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+Found programming Unix is a hurdle
+This is emb
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+
+static int get_nth_index(char *text, char x, int n) {
+	int counter = 0;
+	for (int i = 0; i < strlen(text); i++) {
+		if (text[i] == x) {
+			counter++;
+			if (counter == n) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+array[] = [6, 7, 8, 9, 10]; 
+
+<str, int, [], arr>
+"A not very intelligent turtle"
+Found programming Unix is a hurdle
+This is emb
+
+A very intelligent turtle
+
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+
+<str, '2025-08-04 16:33', [], arr, str>
+
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, '2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+string, float, int, boolean, null, [], tuple, dict
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+<float, int, [], arr>
+<string, float, int, boolean, null, [], tuple, dict>
+<str, int, [], arr>
+<float, int, [], arr>
+<str, 2025-08-04 16:33, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, [], arr>
+<str, int, 'this is a char', arr>
+
+I feel like an heavy weight boxer while using kitty, tmux and nvim
+
+
+What a fucking combination to learn.
+
+Yeah learning become extremely cool in the age of AI
+Maybe the future generation are the most intelligent of all our combined humanity in the past.
+Let's hope they use this new found power in the useful way.
+
+I really enjoy typing in the nvim setup.
+
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+<p>
+    <div>Maybe the future generation are the most intelligent of all our combined humanity in the past.</div>
+</p>
+<p>
+    <div>Let's hope they use this new found power in the useful way.</div>
+</p>
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+<p>
+    <div>Maybe the future generation are the most intelligent of all our combined humanity in the past.</div>
+</p>
+<p>
+    <div>Let's hope they use this new found power in the useful way.</div>
+</p>
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+<p>
+    <div>Maybe the future generation are the most intelligent of all our combined humanity in the past.</div>
+</p>
+<p>
+    <div>Let's hope they use this new found power in the useful way.</div>
+</p>
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+<p>
+    <div>Maybe the future generation are the most intelligent of all our combined humanity in the past.</div>
+</p>
+<p>
+    <div>Let's hope they use this new found power in the useful way.</div>
+</p>
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+<p>
+    <div>Maybe the future generation are the most intelligent of all our combined humanity in the past.</div>
+</p>
+<p>
+    <div>Let's hope they use this new found power in the useful way.</div>
+</p>
+<p>
+    <div>Yeah learning become extremely cool in the age of AI</div>
+</p>
+
+<h1>Hello world 1</h1>
+<h1>Hello world 4</h1>
+
+
+["1password",
+"aa-enabled",
+"aa-exec",
+"aa-features-abi",
+"ab",
+"aclocal",
+"aclocal-1.16",
+"aconnect",
+"acorn",
+"acpidbg",
+"add-apt-repository",
+"addpart",
+"addr2line",
+"airscan-discover",
+"alsabat",
+"alsaloop",
+"alsamixer",
+"alsatplg",
+"alsaucm",
+"amidi",
+"amixer",
+"apg",
+"apgbfm",
+"aplay",
+"aplaymidi",
+"apport-bug",
+"apport-cli",
+"apport-collect",
+"apport-unpack",
+"appres",
+"appstreamcli",
+"apropos",
+"apt",
+"apt-add-repository",
+"apt-cache",
+"apt-cdrom",
+"apt-config",
+"aptdcon",
+"apt-extracttemplates",
+"apt-ftparchive",
+"apt-get",
+"apt-key",
+"apt-mark",
+"apt-sortpkgs",
+"ar",
+"arborist",
+"arch",
+"arecord",
+"arecordmidi",
+"arm2hpdl",
+"as",
+"aseqdump",
+"aseqnet",
+"aspell",
+"aspell-import",
+"atobm",
+"autoconf",
+"autoheader",
+"autom4te",
+"automake",
+"automake-1.16",
+"autoreconf",
+"autoscan",
+"autoupdate",
+"awk",
+"axfer",
+"b2sum",
+"babeljs",
+"babeljs-7",
+"babeljs-7-external-helpers",
+"babeljs-7-node",
+"babeljs-7-parser",
+"babeljs-external-helpers",
+"babeljs-node",
+"babeljs-parser",
+"baobab",
+"base32",
+"base64",
+"basename",
+"basenc",
+"bash",
+"bashbug",
+"bc",
+"bdftopcf",
+"bdftruncate",
+"bison",
+"bison.yacc",
+"bitmap",
+"bleachbit",
+"bluemoon",
+"bluetoothctl",
+"bluetooth-sendto",
+"bmtoa",
+"boltctl",
+"bpftrace",
+"bpftrace-aotrt",
+"brltty",
+"brltty-atb",
+"brltty-clip",
+"brltty-ctb",
+"brltty-hid",
+"brltty-ktb",
+"brltty-lscmds","brltty-morse","brltty-trtxt","brltty-ttb","brltty-tune","broadwayd","browse","browserslist","btattach","btmgmt","btmon","bunzip2","busctl","busybox","bwrap","bzcat","bzcmp","bzdiff","bzegrep","bzexe","bzfgrep","bzgrep","bzip2","bzip2recover","bzless","bzmore","c++","c89","c89-gcc","c99","c99-gcc","cabextract","calibrate_ppa","canberra-gtk-play","cancel","captoinfo","cardos-tool","cat","catman","cc","cd-create-profile","cd-fix-profile","cd-iccdump","cd-it8","certutil","c++filt","chacl","chage","chardet","chardetect","chattr","chcon","checkgid","check-language-support","chfn","chgrp","chktest","chmod","choom","chown","chrt","chsh","chvt","cifsiostat","ciptool","ckbcomp","cksum","clear","clear_console","cloud-id","cloud-init","cloud-init-per","cmake","cmp","cmsutil","codepage","col","colcrt","colormgr","colrm","column","comm","containerd","containerd-shim","containerd-shim-runc-v1","containerd-shim-runc-v2","corelist","cp","cpack","cpan","cpan5.38-x86_64-linux-gnu","cpio","cpp","cpp-11","cpp-13","cpp-9","cpupower","c_rehash","crlutil","crontab","cryptoflex-tool","csplit","ctest","ctr","ctstat","cupstestppd","curl","curl-config","cut","cvt","cvtsudoers","dash","date","dbus-cleanup-sockets","dbus-daemon","dbus-launch","dbus-monitor","dbus-run-session","dbus-send","dbus-update-activation-environment","dbus-uuidgen","dbxtool","dc","dconf","dd","ddev","ddev-hostname","ddstdecode","deallocvt","debconf","debconf-apt-progress","debconf-communicate","debconf-copydb","debconf-escape","debconf-set-selections","debconf-show","debian-distro-info","deb-systemd-helper","deb-systemd-invoke","deja-dup","delpart","delv","derdump","desktop-file-edit","desktop-file-install","desktop-file-validate","df","dh_autotools-dev_restoreconfig","dh_autotools-dev_updateconfig","dh_bash-completion","dh_installxmlcatalogs","dh_perl_openssl","diff","diff3","dig","dir","dircolors","dirmngr","dirmngr-client","dirname","distro-info","dmesg","dnie-tool","dnsdomainname","docker","dockerd","dockerd-rootless-setuptool.sh","dockerd-rootless.sh","docker-proxy","domainname","do-release-upgrade","dos2unix","dpkg","dpkg-architecture","dpkg-buildapi","dpkg-buildflags","dpkg-buildpackage","dpkg-buildtree","dpkg-checkbuilddeps","dpkg-deb","dpkg-distaddfile","dpkg-divert","dpkg-genbuildinfo","dpkg-genchanges","dpkg-gencontrol","dpkg-gensymbols","dpkg-maintscript-helper","dpkg-mergechangelogs","dpkg-name","dpkg-parsechangelog","dpkg-query","dpkg-realpath","dpkg-scanpackages","dpkg-scansources","dpkg-shlibdeps","dpkg-source","dpkg-split","dpkg-statoverride","dpkg-trigger","dpkg-vendor","driverless","driverless-fax","du","dumpkeys","duplicity","dvipdf","dwp","eatmydata","ec2metadata","echo","ed","editor","editres","efibootdump","efibootmgr","egk-tool","egrep","eidenv","eject","elfedit","enc2xs","encguess","enchant-2","enchant-lsmod-2","env","envsubst","eog","eps2eps","eqn","esc-m","escodegen","esgenerate","eslint","esparse","esvalidate","eutp","evince","evince-previewer","evince-thumbnailer","ex","expand","expiry","expr","factor","faillog","faked-sysv","faked-tcp","fakeroot","fakeroot-sysv","fakeroot-tcp","fallocate","false","fc-cache","fc-cat","fc-conflist","fcgistarter","fc-list","fc-match","fc-pattern","fc-query","fc-scan","fc-validate","fgconsole","fgrep","file","file2brl","file-roller","find","findmnt","firefox","flameshot","flock","fmt","fold","fonttosfnt","foo2ddst","foo2ddst-wrapper","foo2hbpl2","foo2hbpl2-wrapper","foo2hiperc","foo2hiperc-wrapper","foo2hp","foo2hp2600-wrapper","foo2lava","foo2lava-wrapper","foo2oak","foo2oak-wrapper","foo2qpdl","foo2qpdl-wrapper","foo2slx","foo2slx-wrapper","foo2xqx","foo2xqx-wrapper","foo2zjs","foo2zjs-icc2ps","foo2zjs-pstops","foo2zjs-wrapper","foomatic-rip","fprintd-delete","fprintd-enroll","fprintd-list","fprintd-verify","free","ftp","funzip","fuser","fusermount","fusermount3","fwupdmgr","fwupdtool","g++","g++-13","gamemoded","gamma4scanimage","gapplication","gatttool","gcalccmd","gcc","gcc-11","gcc-13","gcc-9","gcc-ar","gcc-ar-11","gcc-ar-13","gcc-ar-9","gcc-nm","gcc-nm-11","gcc-nm-13","gcc-nm-9","gcc-ranlib","gcc-ranlib-11","gcc-ranlib-13","gcc-ranlib-9","gcore","gcov","gcov-11","gcov-13","gcov-9","gcov-dump","gcov-dump-11","gcov-dump-13","gcov-dump-9","gcov-tool","gcov-tool-11","gcov-tool-13","gcov-tool-9","gcr-viewer","gcr-viewer-gtk4","gdb","gdb-add-index","gdbtui","gdbus","gdk-pixbuf-csource","gdk-pixbuf-pixdata","gdk-pixbuf-thumbnailer","gdm-config","gdmflexiserver","gdm-screenshot","gencat","geqn","GET","getconf","getent","getfacl","getkeycodes","getopt","gettext","gettextize","gettext.sh","ghostscript","gids-tool","ginstall-info","gio","gio-querymodules","gipddecode","git","git-receive-pack","git-shell","git-upload-archive","git-upload-pack","gjs","gjs-console","gkbd-keyboard-display","glib-compile-schemas","gmake","gnome-calculator","gnome-calendar","gnome-characters","gnome-clocks","gnome-control-center","gnome-disk-image-mounter","gnome-disks","gnome-extensions","gnome-font-viewer","gnome-help","gnome-keyring","gnome-keyring-3","gnome-keyring-daemon","gnome-language-selector","gnome-logs","gnome-power-statistics","gnome-session","gnome-session-inhibit","gnome-session-properties","gnome-session-quit","gnome-shell","gnome-shell-extension-tool","gnome-shell-test-tool","gnome-system-monitor","gnome-terminal","gnome-terminal.real","gnome-terminal.wrapper","gnome-text-editor","gnome-thumbnail-font","gnome-www-browser","goid-tool","gold","google-chrome","google-chrome-stable","gp-archive","gpasswd","gp-collect-app","gp-display-html","gp-display-src","gp-display-text","gpg","gpg2","gpg-agent","gpgconf","gpg-connect-agent","gpgparsemail","gpgsm","gpgsplit","gpgtar","gpgv","gpg-wks-client","gpic","gprof","gprofng","gpu-manager","grdctl","grep","gresource","grim","groff","grog","grops","grotty","groups","growpart","grub-editenv","grub-file","grub-fstest","grub-glue-efi","grub-kbdcomp","grub-menulst2cfg","grub-mkfont","grub-mkimage","grub-mklayout","grub-mknetdir","grub-mkpasswd-pbkdf2","grub-mkrelpath","grub-mkrescue","grub-mkstandalone","grub-mount","grub-ntldr-img","grub-render-label","grub-script-check","grub-syslinux2cfg","gs","gsbj","gsdj","gsdj500","gsettings","gslj","gslp","gsnd","gst-device-monitor-1.0","gst-discoverer-1.0","gst-inspect-1.0","gst-launch-1.0","gst-play-1.0","gstreamer-codec-install","gst-stats-1.0","gst-tester-1.0","gst-typefind-1.0","gtbl","gted","gtf","gtk4-broadwayd","gtk4-builder-tool","gtk4-encode-symbolic-svg","gtk4-launch","gtk4-path-tool","gtk4-query-settings","gtk4-rendernode-tool","gtk4-update-icon-cache","gtk-builder-tool","gtk-encode-symbolic-svg","gtk-launch","gtk-query-settings","gtk-update-icon-cache","gunzip","gyp","gzexe","gzip","h2ph","h2xs","handlebars","hardlink","hbpldecode","hciattach","hciconfig","hcitool","hd","head","HEAD","heif-thumbnailer","helpztags","hex2hcd","hexdump","hipercdecode","host","hostid","hostname","hostnamectl","hp-align","hp-check","hp-clean","hp-colorcal","hp-config_usb_printer","hp-doctor","hp-firmware","hp-info","hp-levels","hp-logcapture","hp-makeuri","hp-pkservice","hp-plugin","hp-plugin-ubuntu","hp-probe","hp-query","hp-scan","hp-setup","hp-testpage","hp-timedate","htcacheclean","htdbm","htdigest","htop","htpasswd","httpserv","hwe-support-status","i386","iasecc-tool","ibus","ibus-daemon","ibus-setup","ibus-table-createdb","iceauth","ico","iconv","id","iecset","ifnames","ijs_pxljr","im-config","im-launch","inetutils-telnet","info","infobrowser","infocmp","infotocap","inputattach","install","install-info","instmodsh","intel-virtual-output","ionice","iostat","ip","ipcmk","ipcrm","ipcs","ipod-read-sysinfo-extended","ipod-time-sync","ippfind","ipptool","iptables-xml","ischroot","isdv4-serial-debugger","isdv4-serial-inputattach","ispell-wrapper","istanbul","join","journalctl","jpgicc","jq","js","jsesc","json5","jsondiff","jsonpatch","json-patch-jsondiff","jsonpointer","json_pp","jsonschema","js-yaml","kbdinfo","kbd_mode","kbxutil","kernel-install","kerneloops-submit","kill","killall","kitten","kitty","kmod","kmodsign","l2ping","l2test","laptop-detect","last","lastb","lastlog","lavadecode","lcf","ld","ldapadd","ldapcompare","ldapdelete","ldapexop","ldapmodify","ldapmodrdn","ldappasswd","ldapsearch","ldapurl","ldapwhoami","ld.bfd","ldd","ld.gold","ld.so","ledit","less","lessecho","lessfile","lesskey","lesspipe","lexgrog","libnetcfg","libreoffice","link","linkicc","linux32","linux64","linux-boot-prober","linux-check-removal","linux-update-symlinks","linux-version","listres","ln","lnstat","loadkeys","loadunimap","localc","locale","locale-check","localectl","localedef","lodraw","loffice","lofromtemplate","logger","login","loginctl","logname","logresolve","loimpress","lomath","look","loweb","lowriter","lp","lpoptions","lpq","lpr","lprm","lp_solve","lpstat","ls","lsattr","lsblk","lsb_release","lscpu","lshw","lsinitramfs","lsipc","lslocks","lslogins","lsmem","lsmod","lsns","lsof","lspci","lspgpot","lspower","lsusb","lto-dump","lto-dump-11","lto-dump-13","lwp-download","lwp-dump","lwp-mirror","lwp-request","lz4","lz4c","lz4cat","lzcat","lzcmp","lzdiff","lzegrep","lzfgrep","lzgrep","lzless","lzma","lzmainfo","lzmore","m2300w","m2300w-wrapper","m2400w","m4","mac2unix","make","make-cadir","make-first-existing-target","mako-render","man","mandb","manpath","man-recode","mapscrn","markdown-it","mawk","mbimcli","mbim-network","mcookie","md5sum","md5sum.textutils","mdig","memhog","mesa-overlay-control.py","mesg","migratepages","migrate-pubring-from-classic-gpg","migspeed","mimeopen","mimetype","min12xxw","mkcert","mkdir","mkfifo","mkfontdir","mkfontscale","mk_modmap","mknod","mksquashfs","mktemp","mmcli","modutil","mokutil","monitor-sensor","more","mount","mountpoint","mousetweaks","mpris-proxy","mpstat","mscompress","msexpand","msgattrib","msgcat","msgcmp","msgcomm","msgconv","msgen","msgexec","msgfilter","msgfmt","msggrep","msginit","msgmerge","msgunfmt","msguniq","mt","mt-gnu","mtr","mtr-packet","mutter","mv","namei","nano","nanoid","nasm","nautilus","nautilus-autorun-software","nautilus-sendto","nawk","nc","nc.openbsd","ncurses6-config","ncursesw6-config","ndisasm","neqn","netaddr","netcat","netkey-tool","netstat","networkctl","networkd-dispatcher","newgrp","ngettext","nice","nisdomainname","nl","nm","nm-applet","nmcli","nm-connection-editor","nm-online","nmtui","nmtui-connect","nmtui-edit","nmtui-hostname","node","node-coveralls","node-gyp","nodejs","nohup","notify-send","npa-tool","npm","npm-arborist","nproc","npx","nroff","nsenter","nslookup","nss-addbuiltin","nss-dbtest","nss-pp","nstat","nsupdate","numactl","numastat","numfmt","nvidia-detector","nyc","oakdecode","obexctl","objcopy","objdump","ocaml","ocamlc","ocamlc.byte","ocamlcmt","ocamlc.opt","ocamlcp","ocamlcp.byte","ocamlcp.opt","ocamldebug","ocamldep","ocamldep.byte","ocamldep.opt","ocamldoc","ocamldoc.opt","ocamldumpobj","ocamlfind","ocamllex","ocamllex.byte","ocamllex.opt","ocamlmklib","ocamlmklib.byte","ocamlmklib.opt","ocamlmktop","ocamlmktop.byte","ocamlmktop.opt","ocamlobjinfo","ocamlobjinfo.byte","ocamlobjinfo.opt","ocamlopt","ocamlopt.byte","ocamlopt.opt","ocamloptp","ocamloptp.byte","ocamloptp.opt","ocamlprof","ocamlprof.byte","ocamlprof.opt","ocamlrun","ocamlrund","ocamlruni","ocamlyacc","oclock","ocspclnt","od","oem-getlogs","on_ac_power","oomctl","open","opener","openpgp-tool","opensc-asn1","opensc-explorer","opensc-notify","opensc-tool","openssl","openvt","opldecode","orca","orca-dm-wrapper","osirrox","os-prober","p11-kit","p7content","p7env","p7sign","p7verify","pacote","pager","paperconf","partx","passwd","paste","patch","pathchk","pdb3","pdb3.12","pdf2dsc","pdf2ps","pdfattach","pdfdetach","pdffonts","pdfimages","pdfinfo","pdfseparate","pdfsig","pdftocairo","pdftohtml","pdftoppm","pdftops","pdftotext","pdfunite","peekfd","perf","perl","perl5.38.2","perl5.38-x86_64-linux-gnu","perlbug","perldoc","perli11ndoc","perlivp","perlthanks","pf2afm","pfbtopfa","pgrep","phar","phar8.2","phar8.2.phar","phar8.3","phar8.3.phar","phar.phar","phar.phar8.2","phar.phar8.3","php","php8.2","php8.3","pic","pico","piconv","pidof","pidstat","pidwait","pigz","pinentry","pinentry-curses","pinentry-gnome3","pinentry-gtk-2","pinentry-x11","ping","ping4","ping6","pinky","pip","pip3","pip3.12","pipewire","pipewire-aes67","pipewire-avb","pipewire-pulse","piv-tool","pk12util","pk1sign","pkaction","pkcheck","pkcon","pkcs11-register","pkcs11-tool","pkcs15-crypt","pkcs15-init","pkcs15-tool","pkexec","pkill","pkmon","pkttyagent","pl2pm","pldd","plog","plymouth","pmap","pnm2ppa","pod2html","pod2man","pod2text","pod2usage","podchecker","poff","pon","POST","powerprofilesctl","ppdc","ppdhtml","ppdi","ppdmerge","ppdpo","pphs","pr","precat","preconv","preunzip","prezip","prezip-bin","printafm","printenv","printer-profile","printf","prlimit","pro","prove","prtstat","ps","ps2ascii","ps2epsi","ps2pdf","ps2pdf12","ps2pdf13","ps2pdf14","ps2pdfwr","ps2ps","ps2ps2","ps2txt","psfaddtable","psfgettable","psfstriptable","psfxtable","psicc","pslog","pstree","pstree.x11","ptar","ptardiff","ptargrep","ptx","pw-cat","pw-cli","pw-config","pwd","pwdecrypt","pw-dot","pw-dsdplay","pw-dump","pwdx","pw-encplay","pw-link","pw-loopback","pw-metadata","pw-mididump","pw-midiplay","pw-midirecord","pw-mon","pw-play","pw-profiler","pw-record","pw-reserve","pw-top","py3clean","py3compile","py3versions","pybabel","pybabel-python3","pydoc3","pydoc3.12","pygettext3","pygettext3.12","pygmentize","pyserial-miniterm","pyserial-ports","python3","python3.12","python3.12-config","python3-config","pzstd","qmicli","qmi-firmware-update","qmi-network","qpdldecode","qrcode-terminal","quirks-handler","ranlib","rbash","rctest","rdma","readelf","readline-editor","readlink","realpath","recode-sr-latin","red","regjsparser","remmina","remmina-file-wrapper","remmina-gnome","rename.ul","rendercheck","renice","reset","resizecons","resizepart","resolvectl","rev","rfcomm","rgrep","rhythmbox","rhythmbox-client","rimraf","rm","rmdir","rnano","rootlesskit","rotatelogs","routel","rpcgen","rrsync","rsaperf","rstart","rstartd","rsync","rsync-ssl","rtla","rtstat","runc","runcon","run-parts","run-with-aspell","rview","rygel","sadf","sane-find-scanner","sar","sar.sysstat","savelog","sbattach","sbkeysync","sbsiglist","sbsign","sbvarsign","sbverify","scalar","scanimage","sc-hsm-tool","scp","scp-dbus-service","screendump","script","scriptlive","scriptreplay","sdiff","sdptool","seahorse","sed","select-default-iwrap","select-editor","selfserv","semver","sensible-browser","sensible-editor","sensible-pager","sensible-terminal","seq","session-migration","sessreg","setarch","setfacl","setfont","setkeycodes","setleds","setlogcons","setmetamode","setpci","setpriv","setsid","setterm","setupcon","setxkbmap","sftp","sg","sh","sha1sum","sha224sum","sha256sum","sha384sum","sha512sum","shasum","shlibsign","shotwell","showconsolefont","showkey","showrgb","shred","shuf","signtool","signver","simple-scan","size","skill","slabtop","slack","sleep","slirp4netns","slogin","slxdecode","smproxy","snap","snapctl","snapfuse","snapshot","snice","soelim","soffice","software-properties-gtk","sort","spa-acp-tool","spa-inspect","spa-json-dump","spa-monitor","spa-resample","spd-conf","spd-say","spdsend","speaker-test","speech-dispatcher","spice-vdagent","splain","split","splitfont","sqfscat","sqfstar","sqlite3","ss","ssh","ssh-add","ssh-agent","ssh-argv0","ssh-copy-id","ssh-keygen","ssh-keyscan","ssltap","sss_ssh_authorizedkeys","sss_ssh_knownhostsproxy","startx","stat","static-sh","stdbuf","strace","strace-log-merge","streamzip","strings","strip","strsclnt","stty","su","sudo","sudoedit","sudoreplay","sum","switcherooctl","symfony","symkeyutil","sync","systemctl","systemd","systemd-ac-power","systemd-analyze","systemd-ask-password","systemd-cat","systemd-cgls","systemd-cgtop","systemd-confext","systemd-creds","systemd-cryptenroll","systemd-cryptsetup","systemd-delta","systemd-detect-virt","systemd-escape","systemd-firstboot","systemd-hwdb","systemd-id128","systemd-inhibit","systemd-machine-id-setup","systemd-mount","systemd-notify","systemd-path","systemd-repart","systemd-run","systemd-socket-activate","systemd-stdio-bridge","systemd-sysext","systemd-sysusers","systemd-tmpfiles","systemd-tty-ask-password-agent","systemd-umount","tabs","tac","tail","tap","tape","tapestat","tap-mocha-reporter","tap-parser","tar","taskset","tbl","tclsh","tclsh8.6","tcpdump","tecla","tee","telnet","tempfile","terser","test","thunderbird","tic","tificc","time","timedatectl","timeout","tload","tmux","tnftp","toe","top","totem","totem-video-thumbnailer","touch","tput","tr","trace-cmd","tracepath","tracker3","tracker3-daemon","tracker3-endpoint","tracker3-export","tracker3-extract","tracker3-help","tracker3-import","tracker3-index","tracker3-info","tracker3-reset","tracker3-search","tracker3-sparql","tracker3-sql","tracker3-status","tracker3-tag","transicc","transmission-gtk","transset","troff","true","truncate","trust","tset","tsort","tstclnt","tty","turbostat","tzselect","ua","ubuntu-advantage","ubuntu-bug","ubuntu-distro-info","ubuntu-drivers","ubuntu-report","ubuntu-security-status","ucf","ucfq","ucfr","uclampset","ucs2any","udevadm","udisksctl","ul","umax_pp","umount","uname","unattended-upgrade","unattended-upgrades","uncompress","unexpand","unicode_start","unicode_stop","uniq","unity-scope-loader","unix2dos","unix2mac","unlink","unlz4","unlzma","unmkinitramfs","unopkg","unpigz","unrar","unrar-nonfree","unshare","unsquashfs","unxz","unzip","unzipsfx","unzstd","update-alternatives","update-desktop-database","update-manager","update-mime-database","update-notifier","upower","uptime","usb-creator-gtk","usb-devices","usbhid-dump","usbip","usbipd","usb_printerid","usbreset","users","utmpdump","uuidgen","uuidparse","varlinkctl","vcs-run","vdir","vfychain","vfyserv","vi","view","viewres","vim.tiny","vmstat","vmwarectrl","vstp","w","wall","watch","watchgnupg","wc","wdctl","webpack","webpack-cli","westcos-tool","wg","wget","wg-quick","whatis","whereis","which","which.debianutils","whiptail","who","whoami","whoopsie","whoopsie-preferences","wireplumber","word-list-compress","wpa_passphrase","wpctl","wpexec","write","wscat","X","X11","x11perf","x11perfcomp","x86_64","x86_64-linux-gnu-addr2line","x86_64-linux-gnu-ar","x86_64-linux-gnu-as","x86_64-linux-gnu-c++filt","x86_64-linux-gnu-cpp","x86_64-linux-gnu-cpp-11","x86_64-linux-gnu-cpp-13","x86_64-linux-gnu-cpp-9","x86_64-linux-gnu-dwp","x86_64-linux-gnu-elfedit","x86_64-linux-gnu-g++","x86_64-linux-gnu-g++-13","x86_64-linux-gnu-gcc","x86_64-linux-gnu-gcc-11","x86_64-linux-gnu-gcc-13","x86_64-linux-gnu-gcc-9","x86_64-linux-gnu-gcc-ar","x86_64-linux-gnu-gcc-ar-11","x86_64-linux-gnu-gcc-ar-13","x86_64-linux-gnu-gcc-ar-9","x86_64-linux-gnu-gcc-nm","x86_64-linux-gnu-gcc-nm-11","x86_64-linux-gnu-gcc-nm-13","x86_64-linux-gnu-gcc-nm-9","x86_64-linux-gnu-gcc-ranlib","x86_64-linux-gnu-gcc-ranlib-11","x86_64-linux-gnu-gcc-ranlib-13","x86_64-linux-gnu-gcc-ranlib-9","x86_64-linux-gnu-gcov","x86_64-linux-gnu-gcov-11","x86_64-linux-gnu-gcov-13","x86_64-linux-gnu-gcov-9","x86_64-linux-gnu-gcov-dump","x86_64-linux-gnu-gcov-dump-11","x86_64-linux-gnu-gcov-dump-13","x86_64-linux-gnu-gcov-dump-9","x86_64-linux-gnu-gcov-tool","x86_64-linux-gnu-gcov-tool-11","x86_64-linux-gnu-gcov-tool-13","x86_64-linux-gnu-gcov-tool-9","x86_64-linux-gnu-gold","x86_64-linux-gnu-gp-archive","x86_64-linux-gnu-gp-collect-app","x86_64-linux-gnu-gp-display-html","x86_64-linux-gnu-gp-display-src","x86_64-linux-gnu-gp-display-text","x86_64-linux-gnu-gprof","x86_64-linux-gnu-gprofng","x86_64-linux-gnu-ld","x86_64-linux-gnu-ld.bfd","x86_64-linux-gnu-ld.gold","x86_64-linux-gnu-lto-dump","x86_64-linux-gnu-lto-dump-11","x86_64-linux-gnu-lto-dump-13","x86_64-linux-gnu-nm","x86_64-linux-gnu-objcopy","x86_64-linux-gnu-objdump","x86_64-linux-gnu-python3.12-config","x86_64-linux-gnu-python3-config","x86_64-linux-gnu-ranlib","x86_64-linux-gnu-readelf","x86_64-linux-gnu-size","x86_64-linux-gnu-strings","x86_64-linux-gnu-strip","x86_energy_perf_policy","xargs","xauth","xbiff","xbrlapi","xcalc","xclip","xclipboard","xclip-copyfile","xclip-cutfile","xclip-pastefile","xclock","xcmsdb","xconsole","xcursorgen","xcutsel","xdg-dbus-proxy","xdg-desktop-icon","xdg-desktop-menu","xdg-email","xdg-icon-resource","xdg-mime","xdg-open","xdg-screensaver","xdg-settings","xdg-user-dir","xdg-user-dirs-gtk-update","xdg-user-dirs-update","xditview","xdpyinfo","xdriinfo","xedit","Xephyr","xev","xeyes","xfd","xfontsel","xgamma","xgc","xgettext","xhost","xinit","xinput","xkbbell","xkbcomp","xkbevd","xkbprint","xkbvleds","xkbwatch","xkeystone","xkill","xload","xlogo","xlsatoms","xlsclients","xlsfonts","xmag","xman","xmessage","xmodmap","xmore","Xorg","xorrecord","xorriso","xorrisofs","xprop","xqxdecode","xrandr","xrdb","xrefresh","x-session-manager","xset","xsetmode","xsetpointer","xsetroot","xsetwacom","xsm","xstdcmap","xsubpp","x-terminal-emulator","xvidtune","xvinfo","Xwayland","xwd","x-window-manager","xwininfo","xwud","x-www-browser","xxd","xz","xzcat","xzcmp","xzdiff","xzegrep","xzfgrep","xzgrep","xzless","xzmore","yacc","yelp","yes","ypdomainname","zcat","zcmp","zdiff","zdump","zegrep","zenity","zfgrep","zforce","zgrep","zip","zipcloak","zipdetails","zipgrep","zipinfo","zipnote","zipsplit","zjsdecode","zless","zmore","znew","zoom","zstd","zstdcat","zstdgrep","zstdless","zstdmt"]

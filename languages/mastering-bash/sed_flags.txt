@@ -1,0 +1,13 @@
+By default, sed only works on the first iteration of the search criteria.
+Flags help us modify that when necessary.
+
+
+Flag                    Description
+.....................................................................
+# (number)              substitute every # occurance per line
+
+g                       sed should substitute EVERY occurance
+
+p                       PRINT, typically used in conjunction with -n(don't print)
+
+w file                  Write to a seperate output file

@@ -1,0 +1,176 @@
+Name, Email
+JaredJarvis,  gabriellehartman@benjamin.com
+MarieMalone,  kstafford@sexton.com
+ElijahBarrera,  jeanettecross@brown.com
+SherylMontgomery,  -
+JeremyHouston,  rubenwatkins@jacobs-wallace.info
+FrankVillarreal,  -
+RickeyFox,  -
+BarryWare,  brent60@lopez.com
+CarlMcdowell,  toddharris@lowery-rosario.biz
+PamDalton,  carolbanks@vang-stafford.com
+KaylaPittman,  cassidy83@irwin.com
+TerranceHayes,  baxtercandice@coleman.com
+AaronDavies,  arellanoselena@mclean.com
+EricTyler,  ernest05@cannon.info
+EdwinCrawford,  lauriebishop@berry-simpson.org
+LindsayLuna,  rhuff@kennedy.info
+VictoriaMorrison,  ksimmons@morton.com
+EugeneAvery,  clairesloan@rivas.com
+SonyaOneill,  -
+NormaColeman,  kristinewatson@houston.com
+JamieMeadows,  -
+GwendolynCameron,  kaylee45@rice.org
+FernandoBlack,  rvilla@farley-evans.com
+ArthurMiller,  -
+DaisyHolt,  oconnelldarrell@white-cooke.com
+DerrickBates,  jmathews@lopez.com
+MargaretMartin,  -
+EvelynLin,  -
+JackieSchwartz,  jermaine57@mckay-garza.com
+DerekMccarty,  manningelaine@gilmore.com
+MarthaBates,  parkpam@berry.com
+BonnieAshley,  -
+TinaPerry,  -
+JamesRush,  brandychang@neal-adams.net
+ClaudiaDennis,  kelli44@conley-dalton.com
+AdamWest,  -
+KimberlyLewis,  creyes@meyer.com
+RebeccaGregory,  -
+TeresaMoreno,  roblesnorman@barber.biz
+JulianHorn,  -
+AlfredHaynes,  -
+MelodyForbes,  rherrera@williamson.com
+CourtneyGuerrero,  -
+BradleyDonaldson,  mduke@ortiz.com
+ShelbyMcgee,  kennethfoley@knapp-heath.com
+AlisonMatthews,  -
+AndreBray,  barrleon@navarro.com
+JodyDaniel,  cheryl11@wade-arias.com
+LanceHaas,  -
+SueMoon,  rivasmonique@salinas.com
+KarenMcgrath,  cole11@fowler.org
+NicholeDixon,  -
+ChristopherKramer,  valentinebruce@marsh.com
+StephanieGilbert,  keithmcgee@mullins.com
+JenniferYork,  -
+JessicaRios,  gambleharry@haynes-armstrong.com
+CarolVelez,  allen87@lam-harrington.org
+GordonPotts,  bill63@austin.com
+DylanSimon,  mercedesholder@villanueva.com
+JesseVazquez,  agibbs@maddox.org
+TerryNguyen,  acraig@daniels.info
+ToniEspinoza,  ---
+DerekGrimes,  buckcatherine@kelley.com
+HeatherReed,  monica63@robbins-carney.info
+GloriaLopez,  pattonbryan@dickson-bray.info
+CharleneGross,  sheppardstuart@leonard.com
+KeithBarton,  -
+LisaMcintosh,  kristenbenitez@gray.net
+GailGay,  lrhodes@lynch-fry.biz
+RonnieBlackwell,  malikdrake@wood-herring.com
+CristinaTownsend,  -
+AnthonyWong,  -
+AprilGuerra,  krandolph@villegas.net
+MollyAnderson,  -
+DaltonWhitney,  -
+GwendolynOdonnell,  nicholssandy@ruiz.com
+JefferyFleming,  costadarryl@reyes.com
+AliciaSandoval,  normanvanessa@valencia.com
+HenrySingleton,  jboyd@shannon.com
+GailAnderson,  cfields@mack-dawson.com
+RodneyCruz,  -
+GeoffreyGoodman,  bchan@larson-roberts.com
+LucasMendez,  -
+AndreaLuna,  tasharussell@perkins.com
+LoganWeeks,  mackenziebenjamin@harper-hudson.com
+JuanGalloway,  rmorrison@cross.net
+JoanDonaldson,  pconner@heath.com
+KayleeGoodman,  -
+SallyBlackwell,  -
+BeverlyGamble,  noah69@sullivan-flores.net
+DenisePollard,  kathrynscott@mcgrath-mosley.info
+RyanSolis,  joshuabender@blackburn-gross.com
+IsaacBradshaw,  mikayla07@hunt.com
+CaitlinGarner,  tonyalyons@baird-burton.net
+ShawnAcosta,  -
+MitchellParsons,  audrey64@lucas.com
+PamelaBarton,  gonzalesjason@dunn.com
+KristopherCardenas,  aperkins@kirby-merritt.com
+CesarLindsey,  samuel18@stuart.org
+
+const SECONDS_TO_MINUTES: u8 = 1;
+const SECONDS_TO_MINUTES: u8 = 1;
+const SECONDS_TO_HOURS: u8 = 2;
+const SECONDS_TO_DAYS: u8 = 3;
+const SECONDS_TO_YEARS: u8 = 4;
+
+const MINUTES_TO_SECONDS: u8 = 5;
+const MINUTES_TO_HOURS: u8 = 6;
+const MINUTES_TO_DAYS: u8 = 7;
+const MINUTES_TO_YEARS: u8 = 8;
+
+const HOURS_TO_SECONDS: u8 = 9;
+const HOURS_TO_MINUTES: u8 = 10;
+const HOURS_TO_DAYS: u8 = 11;
+const HOURS_TO_YEARS: u8 = 12;
+
+
+
+
+
+1 => SECONDS_TO_MINUTES,
+1 => SECONDS_TO_MINUTES,
+2 => SECONDS_TO_HOURS,
+3 => SECONDS_TO_DAYS,
+4 => SECONDS_TO_YEARS,
+5 => MINUTES_TO_SECONDS,
+6 => MINUTES_TO_HOURS,
+7 => MINUTES_TO_DAYS,
+8 => MINUTES_TO_YEARS,
+9 => HOURS_TO_SECONDS,
+10 => HOURS_TO_MINUTES,
+11 => HOURS_TO_DAYS,
+12 => HOURS_TO_YEARS,
+
+
+
+
+AndreaLuna, tasharussell@perkins.com
+AndreaLuna,  tasharussell@perkins.com
+LoganWeeks,  mackenziebenjamin@harper-hudson.com
+JuanGalloway,  rmorrison@cross.net
+JoanDonaldson,  pconner@heath.com
+KayleeGoodman,  -
+SallyBlackwell,  -
+BeverlyGamble,  noah69@sullivan-flores.net
+DenisePollard,  kathrynscott@mcgrath-mosley.info
+RyanSolis,  joshuabender@blackburn-gross.com
+IsaacBradshaw,  mikayla07@hunt.com
+CaitlinGarner,  tonyalyons@baird-burton.net
+ShawnAcosta,  -
+MitchellParsons,  audrey64@lucas.com
+PamelaBarton,  gonzalesjason@dunn.com
+KristopherCardenas,  aperkins@kirby-merritt.com
+CesarLindsey,  samuel18@stuart.org
+
+
+drwxrwxr-x  6 vkuberan vkuberan 4.0K Aug 22 23:25 .
+drwxrwxr-x 30 vkuberan vkuberan 4.0K Aug 21 18:09 ..
+-rw-rw-r--  1 vkuberan vkuberan  24K Aug 15 21:58 examples.txt
+-rw-rw-r--  1 vkuberan vkuberan   38 Aug  4 16:45 hello.py
+drwxrwxr-x  5 vkuberan vkuberan 4.0K Aug 12 13:58 languages
+-rw-rw-r--  1 vkuberan vkuberan    0 Aug 22 23:25 lotus-lord.txt
+drwxrwxr-x  3 vkuberan vkuberan 4.0K Jul 17 12:31 makefile-practice
+-rw-rw-r--  1 vkuberan vkuberan 2.9K Aug  4 13:52 plivm-28.txt
+drwxrwxr-x  2 vkuberan vkuberan 4.0K Jul 17 15:53 practice-awk
+-rw-rw-r--  1 vkuberan vkuberan 2.8K Aug  4 16:37 register.txt
+-rw-rw-r--  1 vkuberan vkuberan  31K Aug 22 12:47 tutor.txt
+drwxrwxr-x  2 vkuberan vkuberan 4.0K Jul 17 12:28 vim-docs
+
+
+
+
+
+
+
