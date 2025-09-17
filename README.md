@@ -1,2 +1,2 @@
-# practice-git
+# Practice Git
 Practice git related things
