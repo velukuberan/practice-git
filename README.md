@@ -4,7 +4,6 @@ Practice git related things
 ## Docker Commands
 Some basic commands for this repo on docker
 ```
-```
 docker compose up -d
 docker compose exec container-name bash
 docker compose exec --user archuser container-name bash
