@@ -1,7 +1,6 @@
 services:
   arch-linux:
-    image: archlinux:latest
-    container_name: arch-dev
+    build: .
     volumes:
       - ./workspace:/workspace
     stdin_open: true
@@ -9,11 +8,3 @@ services:
     environment:
       - TERM=xterm-256color
     restart: unless-stopped
-    command: >
-      bash -c "
-      pacman -Syu --noconfirm &&
-      pacman -S --noconfirm base-devel git vim nano wget curl sudo &&
-      useradd -m -G wheel -s /bin/bash archuser &&
-      echo '%wheel ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers &&
-      exec bash
-      "
